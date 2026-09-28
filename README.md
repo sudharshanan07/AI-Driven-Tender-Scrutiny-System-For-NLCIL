@@ -154,8 +154,8 @@ TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
 CHROME_DRIVER_PATH=
 
 # Udyam Verification Excel Input/Output Paths
-UDYAM_INPUT_EXCEL=C:/Users/syles/Documents/NLC/N8N.xlsx
-UDYAM_OUTPUT_EXCEL=C:/Users/syles/Documents/NLC/scraped_output.xlsx
+UDYAM_INPUT_EXCEL=C:/Users/USERNAME/Documents/NLC/N8N.xlsx
+UDYAM_OUTPUT_EXCEL=C:/Users/USERNAME/Documents/NLC/scraped_output.xlsx
 UDYAM_COLUMN=udyam registration
 MAX_CAPTCHA_ATTEMPTS=50
 ```
